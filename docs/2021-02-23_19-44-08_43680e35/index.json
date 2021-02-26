@@ -1,6 +1,6 @@
 {
     "dt-id": "https://dtid.org/2021-02-23_19-44-08_43680e35",
-    "hosting-iri": "https://dtw.dtp.fi/2021-02-23_19-44-08_43680e35",
+    "hosting-iri": "https://me.juu.so/twinbase-measurement-planning/2021-02-23_19-44-08_43680e35",
     "name": "Bizarre Honeybee Of Simple Fortitude",
     "description": "Sit magnam numquam quaerat amet porro consectetur.",
     "relations": [
@@ -17,6 +17,6 @@
             "relationType": "child"
         }
     ],
-    "baseurl": "https://dtw.dtp.fi",
+    "baseurl": "https://me.juu.so/twinbase-measurement-planning",
     "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-02-23_19-44-08_43680e35/index.yaml"
 }
