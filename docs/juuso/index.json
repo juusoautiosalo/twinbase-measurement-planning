@@ -2,7 +2,7 @@
     "version": "1.0",
     "privacy": "public",
     "dt-id": "http://d-t.fi/juuso",
-    "hosting-iri": "https://me.juu.so/twinbase-measurement-planning/juuso",
+    "hosting-iri": "https://testbase.dtp.fi/juuso",
     "name": "Juuso Autiosalo",
     "description": "Juuso is working as a doctoral candidate at Aalto University.",
     "contact": {
@@ -33,5 +33,5 @@
         }
     ],
     "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/juuso/index.yaml",
-    "baseurl": "https://me.juu.so/twinbase-measurement-planning"
+    "baseurl": "https://testbase.dtp.fi"
 }
