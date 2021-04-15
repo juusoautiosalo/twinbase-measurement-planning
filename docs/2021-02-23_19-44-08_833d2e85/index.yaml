@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-02-23_19-44-08_833d2e85
-hosting-iri: https://me.juu.so/twinbase-measurement-planning/2021-02-23_19-44-08_833d2e85
+hosting-iri: https://testbase.dtp.fi/2021-02-23_19-44-08_833d2e85
 name: Unyielding Free Caribou Of Action
 description: Quiquia dolor labore sed sed porro consectetur magnam.
 relations:
@@ -9,5 +9,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-02-23_19-44-08_1ae95641
   relationType: child
-baseurl: https://me.juu.so/twinbase-measurement-planning
+baseurl: https://testbase.dtp.fi
 edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-02-23_19-44-08_833d2e85/index.yaml
