@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-27_17-54-36_5d22cadd
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-27_17-54-36_5d22cadd
 name: Dazzling Daft Tanuki From Shambhala
 description: Eius ipsum voluptatem etincidunt ut velit etincidunt.
 relations:
 - dt-id: https://dtid.org/2021-04-27_17-54-36_c87f7bce
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_5d22cadd/index.yaml

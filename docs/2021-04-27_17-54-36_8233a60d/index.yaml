@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-27_17-54-36_8233a60d
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-27_17-54-36_8233a60d
 name: Angelic Weightless Hog From Hell
 description: Quaerat est dolor labore etincidunt dolore.
 relations:
 - dt-id: https://dtid.org/2021-04-27_17-54-36_d080a5a4
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_8233a60d/index.yaml

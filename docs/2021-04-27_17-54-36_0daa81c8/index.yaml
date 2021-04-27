@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-27_17-54-36_0daa81c8
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-27_17-54-36_0daa81c8
 name: Rugged Mature Labrador Of Karma
 description: Etincidunt amet neque sed aliquam voluptatem eius.
 relations:
 - dt-id: https://dtid.org/2021-04-27_17-54-36_c87f7bce
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_0daa81c8/index.yaml

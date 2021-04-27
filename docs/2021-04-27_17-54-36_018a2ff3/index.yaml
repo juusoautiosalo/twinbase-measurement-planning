@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-27_17-54-36_018a2ff3
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-27_17-54-36_018a2ff3
 name: Fat Hawk Of Optimal Courage
 description: Quaerat adipisci quaerat dolorem.
 relations:
 - dt-id: https://dtid.org/2021-04-27_17-54-36_ac2a685a
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_018a2ff3/index.yaml

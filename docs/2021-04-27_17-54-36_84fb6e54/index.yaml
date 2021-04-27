@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-27_17-54-36_84fb6e54
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-27_17-54-36_84fb6e54
 name: Merry Nickel Husky Of Innovation
 description: Modi magnam dolorem modi numquam.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-27_17-54-36_ebe9530d
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_84fb6e54/index.yaml
