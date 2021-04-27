@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_a2900894
+hosting-iri: autoassign
+name: Rugged Chimpanzee Of Perfect Drama
+description: Sed ut non dolore dolorem voluptatem quisquam.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_f497f445
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_9f28234c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_14373246
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_898a6025
+  relationType: child

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_018a2ff3
+hosting-iri: autoassign
+name: Fat Hawk Of Optimal Courage
+description: Quaerat adipisci quaerat dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_ac2a685a
+  relationType: parent

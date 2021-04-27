@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_390eabbb
+hosting-iri: autoassign
+name: Divergent Certain Skua Of Honor
+description: Etincidunt non eius quiquia modi aliquam.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_e1766b48
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_1c93e731
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_022b5649
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_a8d8fc94
+  relationType: child

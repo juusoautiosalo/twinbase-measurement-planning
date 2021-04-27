@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_10b60d41
+hosting-iri: autoassign
+name: Beneficial Meticulous Ara Of Inspiration
+description: Neque magnam non modi est ipsum quaerat aliquam.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_f497f445
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_9813bd24
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_51c2d018
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_870c6a04
+  relationType: child

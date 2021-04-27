@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_1759fbfb
+hosting-iri: autoassign
+name: Straight Vivid Tody Of Culture
+description: Consectetur neque numquam modi tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_ac2a685a
+  relationType: parent

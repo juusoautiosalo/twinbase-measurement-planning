@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_c87f7bce
+hosting-iri: autoassign
+name: Brass Spaniel Of Hypothetical Speed
+description: Quiquia est aliquam consectetur labore tempora quiquia non.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_e1766b48
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_11270af9
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_0daa81c8
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_5d22cadd
+  relationType: child

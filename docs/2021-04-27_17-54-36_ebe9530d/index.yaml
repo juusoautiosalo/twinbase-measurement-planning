@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_ebe9530d
+hosting-iri: autoassign
+name: Hospitable Wandering Bulldog Of Wonder
+description: Dolor est eius quisquam quiquia dolor sed.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_84fb6e54
+  relationType: parent

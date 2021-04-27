@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_26b7719a
+hosting-iri: autoassign
+name: Flashy Sly Quail Of Realization
+description: Consectetur adipisci dolor dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_84fb6e54
+  relationType: parent

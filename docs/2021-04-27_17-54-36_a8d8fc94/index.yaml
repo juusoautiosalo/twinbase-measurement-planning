@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_a8d8fc94
+hosting-iri: autoassign
+name: Heavenly Foamy Lemming Of Lightning
+description: Ut neque non quaerat.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_390eabbb
+  relationType: parent

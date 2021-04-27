@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_d080a5a4
+hosting-iri: autoassign
+name: Monumental Stoic Fox Of Essence
+description: Magnam numquam non ut neque tempora ipsum etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_bd2deff3
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_8233a60d
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_9ae8974c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_a8c6f7f2
+  relationType: child

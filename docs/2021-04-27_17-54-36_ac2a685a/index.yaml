@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_ac2a685a
+hosting-iri: autoassign
+name: Sassy Esoteric Wasp Of Prosperity
+description: Sit voluptatem numquam eius ipsum etincidunt est.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_bd2deff3
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-27_17-54-36_3c54d802
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_018a2ff3
+  relationType: child
+- dt-id: https://dtid.org/2021-04-27_17-54-36_1759fbfb
+  relationType: child

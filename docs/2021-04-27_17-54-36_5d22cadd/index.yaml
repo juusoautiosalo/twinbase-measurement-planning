@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-27_17-54-36_5d22cadd
+hosting-iri: autoassign
+name: Dazzling Daft Tanuki From Shambhala
+description: Eius ipsum voluptatem etincidunt ut velit etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-04-27_17-54-36_c87f7bce
+  relationType: parent
