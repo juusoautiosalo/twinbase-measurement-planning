@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-27_17-54-36_bd2deff3",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-27_17-54-36_bd2deff3",
+    "name": "Optimistic Wonderful Pelican Of Apotheosis",
+    "description": "Quaerat etincidunt dolorem dolorem sit ut.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-27_17-54-36_02470474",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-27_17-54-36_d080a5a4",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-27_17-54-36_eaacea2c",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-27_17-54-36_ac2a685a",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_bd2deff3/index.yaml"
+}

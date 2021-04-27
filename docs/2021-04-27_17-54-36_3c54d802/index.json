@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-27_17-54-36_3c54d802",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-27_17-54-36_3c54d802",
+    "name": "Modest Proud Bison From Wonderland",
+    "description": "Ut voluptatem dolore modi numquam tempora.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-27_17-54-36_ac2a685a",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-27_17-54-36_3c54d802/index.yaml"
+}
