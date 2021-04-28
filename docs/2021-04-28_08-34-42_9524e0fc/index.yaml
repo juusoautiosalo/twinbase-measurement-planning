@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_9524e0fc
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_9524e0fc
 name: Friendly Fluffy Sawfish Of Tempest
 description: Eius eius quaerat ipsum magnam quiquia dolor aliquam.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_8bee27df
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_9524e0fc/index.yaml

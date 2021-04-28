@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_28029b0f
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_28029b0f
 name: Thundering Economic Partridge Of Security
 description: Consectetur amet ipsum ipsum non neque.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_e363fe93
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_28029b0f/index.yaml

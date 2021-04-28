@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_2b37fa54
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_2b37fa54
 name: Tidy Hot Dolphin Of Chemistry
 description: Quaerat porro sed sit non velit.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_af1dece2
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_2b37fa54/index.yaml

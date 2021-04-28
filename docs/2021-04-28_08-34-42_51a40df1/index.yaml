@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_51a40df1
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_51a40df1
 name: Stereotyped Tody Of Eminent Kindness
 description: Tempora dolore modi quaerat est quisquam quisquam velit.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_d0ede6ef
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_51a40df1/index.yaml

@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_ba99ed2f
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_ba99ed2f
 name: Friendly Conscious Raccoon Of Prosperity
 description: Labore ut dolorem neque porro quiquia velit consectetur.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_6fdb770f
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_ba99ed2f/index.yaml

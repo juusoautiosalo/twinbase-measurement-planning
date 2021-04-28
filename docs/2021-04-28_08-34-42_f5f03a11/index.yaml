@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_f5f03a11
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_f5f03a11
 name: Convivial Married Galago Of Youth
 description: Ut neque aliquam quisquam ipsum aliquam.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_005e1f6d
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_f5f03a11/index.yaml

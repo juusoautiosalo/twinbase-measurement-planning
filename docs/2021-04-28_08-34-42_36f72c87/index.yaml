@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_36f72c87
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_36f72c87
 name: Curious Tall Sawfly Of Jest
 description: Adipisci modi dolor quisquam non amet ut eius.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_e86efa9b
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_36f72c87/index.yaml

@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_fb2c11d8
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_fb2c11d8
 name: Interesting Hopeful Longhorn Of Art
 description: Eius quaerat dolorem dolor.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_cd2cdb85
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_fb2c11d8/index.yaml

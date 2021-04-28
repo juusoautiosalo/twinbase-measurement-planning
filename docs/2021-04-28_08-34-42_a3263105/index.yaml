@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_a3263105
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_a3263105
 name: Industrious Intelligent Ant Of Mastery
 description: Adipisci sit est neque est quaerat non.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_d8cd75b5
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_a3263105/index.yaml

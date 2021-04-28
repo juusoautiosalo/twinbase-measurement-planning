@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_3c506f6d
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_3c506f6d
 name: Apricot Heron Of Impossible Control
 description: Ut magnam ut dolor neque numquam adipisci.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_078fbdbd
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_3c506f6d/index.yaml

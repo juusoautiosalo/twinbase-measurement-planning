@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_6799b8cc
 name: Frisky Maize Booby Of Blizzard
 description: Modi ut dolor amet labore amet.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_be0b3329
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_6799b8cc/index.yaml

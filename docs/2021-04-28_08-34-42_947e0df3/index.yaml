@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_947e0df3
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_947e0df3
 name: Heavy Hairy Groundhog Of Judgment
 description: Modi dolore numquam sit amet dolor.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_b255a537
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_947e0df3/index.yaml

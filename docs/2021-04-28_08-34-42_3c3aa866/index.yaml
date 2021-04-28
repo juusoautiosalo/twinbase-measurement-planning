@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_3c3aa866
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_3c3aa866
 name: Quiet Rugged Crab Of Honor
 description: Amet porro etincidunt amet tempora eius aliquam.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_fe7b4244
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_3c3aa866/index.yaml

@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_73ee91e5
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_73ee91e5
 name: Hallowed Whispering Guillemot Of Serendipity
 description: Tempora etincidunt modi aliquam ut numquam tempora.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_e8f98464
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_73ee91e5/index.yaml

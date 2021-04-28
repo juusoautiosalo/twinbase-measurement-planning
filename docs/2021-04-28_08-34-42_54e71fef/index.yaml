@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_54e71fef
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_54e71fef
 name: The Origin at 2021-04-28 08-34-42
 description: Eius aliquam labore est quisquam amet.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_095820ae
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_54e71fef/index.yaml

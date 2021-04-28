@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_6bd0d115
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_6bd0d115
 name: Silent Quirky Crow Of Will
 description: Aliquam eius eius ut.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_4b679b50
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_6bd0d115/index.yaml

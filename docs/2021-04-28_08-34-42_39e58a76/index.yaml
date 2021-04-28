@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_39e58a76
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_39e58a76
 name: Great Ultraviolet Coati Of Freedom
 description: Amet consectetur amet neque labore velit numquam numquam.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_30e1174e
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_39e58a76/index.yaml

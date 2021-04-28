@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_90918ffc
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_90918ffc
 name: Offbeat Imaginary Shark Of Wonder
 description: Sed sit aliquam numquam adipisci ipsum dolore tempora.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_0eda4972
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_90918ffc/index.yaml

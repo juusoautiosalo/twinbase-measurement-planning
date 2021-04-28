@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_ed99d979
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_ed99d979
 name: Wise Hissing Unicorn Of Honeydew
 description: Numquam sed aliquam non quaerat velit.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_3968dbdb
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_ed99d979/index.yaml

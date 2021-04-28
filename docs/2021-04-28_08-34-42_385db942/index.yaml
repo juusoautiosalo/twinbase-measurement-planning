@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_385db942
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_385db942
 name: Vague Sticky Frigatebird Of Vitality
 description: Amet sit voluptatem numquam sit labore ipsum.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_385db942/index.yaml

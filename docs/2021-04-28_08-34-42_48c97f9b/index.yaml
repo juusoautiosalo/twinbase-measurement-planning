@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_48c97f9b
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_48c97f9b
 name: Hypersonic Cautious Earwig Of Expertise
 description: Etincidunt numquam quiquia adipisci ipsum.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_6fdb770f
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_48c97f9b/index.yaml

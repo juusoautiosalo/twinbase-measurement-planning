@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_d4539278
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_d4539278
 name: Grumpy Puzzling Bug Of Effort
 description: Porro ipsum velit quiquia ut eius sed quaerat.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_9bb55aff
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_d4539278/index.yaml

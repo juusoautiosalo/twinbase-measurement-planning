@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_d846b526
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_d846b526
 name: Hidden Gleaming Mink From Sirius
 description: Quisquam adipisci consectetur ipsum adipisci tempora sed labore.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_b0c5a0cd
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_d846b526/index.yaml

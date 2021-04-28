@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_cd2cdb85
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_cd2cdb85
 name: Finicky Marvellous Dodo Of Action
 description: Aliquam eius quisquam consectetur.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_fb2c11d8
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_cd2cdb85/index.yaml

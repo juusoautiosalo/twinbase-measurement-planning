@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_7b77e5f0
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_7b77e5f0
 name: Proficient Buzzard Of Eternal Vitality
 description: Sed ipsum adipisci numquam est neque est.
 relations:
@@ -11,3 +11,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/2021-04-28_08-34-42_29ab2ea6
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_7b77e5f0/index.yaml

@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/2021-04-28_08-34-42_d7861b01
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-04-28_08-34-42_d7861b01
 name: Quaint Hasty Chipmunk Of Expression
 description: Adipisci etincidunt amet neque modi amet.
 relations:
 - dt-id: https://dtid.org/2021-04-28_08-34-42_f7117a24
   relationType: parent
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_d7861b01/index.yaml
