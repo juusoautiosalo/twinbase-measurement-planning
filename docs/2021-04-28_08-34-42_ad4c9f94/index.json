@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_ad4c9f94",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_ad4c9f94",
+    "name": "Aspiring Kind Woodpecker Of Tranquility",
+    "description": "Magnam dolor est labore.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_6bd0d115",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_ad4c9f94/index.yaml"
+}

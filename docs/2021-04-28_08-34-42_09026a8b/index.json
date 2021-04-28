@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_09026a8b",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_09026a8b",
+    "name": "Resolute Omniscient Cicada From Heaven",
+    "description": "Sed neque aliquam sit ut sed.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_963c984f",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_94e12711",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_deda2141",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_f51a85dc",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_09026a8b/index.yaml"
+}

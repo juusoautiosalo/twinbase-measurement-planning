@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_c86d0fb0",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_c86d0fb0",
+    "name": "Unique Lizard Of Algebraic Weather",
+    "description": "Adipisci eius voluptatem eius velit dolor.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_3895c7ca",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_c86d0fb0/index.yaml"
+}

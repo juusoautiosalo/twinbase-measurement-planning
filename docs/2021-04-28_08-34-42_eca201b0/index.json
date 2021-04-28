@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_eca201b0",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_eca201b0",
+    "name": "Antique Laughing Catfish From Wonderland",
+    "description": "Magnam dolorem est numquam magnam numquam dolor voluptatem.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_002ab68e",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_eca201b0/index.yaml"
+}

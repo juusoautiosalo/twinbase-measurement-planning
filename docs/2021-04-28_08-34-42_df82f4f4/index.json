@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_df82f4f4",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_df82f4f4",
+    "name": "Dangerous Khaki Termite Of Respect",
+    "description": "Aliquam ut ipsum sit tempora.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_31068564",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_1c358af0",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_8fee61b0",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_02597dc6",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_df82f4f4/index.yaml"
+}

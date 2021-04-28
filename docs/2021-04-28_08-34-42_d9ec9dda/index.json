@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_d9ec9dda",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_d9ec9dda",
+    "name": "Arcane Wondrous Crocodile Of Glory",
+    "description": "Voluptatem sed adipisci voluptatem aliquam.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_a2a80e7a",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_65001c65",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_9c18621f",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_c9e1e805",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_d9ec9dda/index.yaml"
+}

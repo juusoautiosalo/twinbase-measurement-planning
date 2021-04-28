@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_d8cd75b5",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_d8cd75b5",
+    "name": "Greedy Sturdy Stork Of Reward",
+    "description": "Magnam velit tempora neque quisquam.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_a3263105",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_8359f802",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_af34f983",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_4586f210",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_d8cd75b5/index.yaml"
+}

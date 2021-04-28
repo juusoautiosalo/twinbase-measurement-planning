@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_71045d0d",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_71045d0d",
+    "name": "Orthodox Nickel Vole Of Order",
+    "description": "Consectetur amet dolore porro sed etincidunt.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_976af15a",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_2bb81d27",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_d6fcbcab",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_10088692",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_71045d0d/index.yaml"
+}

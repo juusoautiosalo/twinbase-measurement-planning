@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_c4dfa7b1",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_c4dfa7b1",
+    "name": "Rustling Fast Bulldog Of Upgrade",
+    "description": "Quaerat dolorem modi magnam quiquia quiquia ipsum dolorem.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_02486218",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_883d37fa",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_2cd216dd",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_298db2c3",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_c4dfa7b1/index.yaml"
+}

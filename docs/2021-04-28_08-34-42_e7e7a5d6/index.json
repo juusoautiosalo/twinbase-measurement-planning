@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_e7e7a5d6",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_e7e7a5d6",
+    "name": "Polite Spiffy Butterfly Of Valor",
+    "description": "Quisquam voluptatem est modi dolorem.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_8de3d3a0",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_e7e7a5d6/index.yaml"
+}

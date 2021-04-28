@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_a8ae8e30",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_a8ae8e30",
+    "name": "Mindful Macho Dragon Of Excellence",
+    "description": "Sed etincidunt adipisci tempora adipisci etincidunt modi.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_d846b526",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_a8ae8e30/index.yaml"
+}

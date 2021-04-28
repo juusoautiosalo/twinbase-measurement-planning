@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_31a1fd8b",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_31a1fd8b",
+    "name": "Functional Maroon Boar Of Success",
+    "description": "Non modi sed dolorem.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_af1dece2",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_31a1fd8b/index.yaml"
+}

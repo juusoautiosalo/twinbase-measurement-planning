@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_cce1f153",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_cce1f153",
+    "name": "Ubiquitous Mauve Tuatara Of Wizardry",
+    "description": "Labore etincidunt sed quiquia numquam non.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_e132b880",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_cce1f153/index.yaml"
+}

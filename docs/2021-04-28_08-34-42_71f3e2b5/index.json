@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_71f3e2b5",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_71f3e2b5",
+    "name": "Uber Woodlouse Of Incredible Courage",
+    "description": "Magnam neque amet voluptatem dolore ipsum ipsum.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_501f8053",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_0ea26777",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_6687a24b",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_de1d8a0a",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_71f3e2b5/index.yaml"
+}

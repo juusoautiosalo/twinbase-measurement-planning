@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_02f02732",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_02f02732",
+    "name": "Futuristic Realistic Moose Of Sympathy",
+    "description": "Magnam modi magnam voluptatem aliquam ipsum dolore.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_34bc29a0",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_02f02732/index.yaml"
+}

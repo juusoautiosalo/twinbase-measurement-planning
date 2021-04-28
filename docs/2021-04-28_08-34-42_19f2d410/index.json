@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_19f2d410",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_19f2d410",
+    "name": "Acoustic Grinning Tanuki Of Wholeness",
+    "description": "Aliquam est sed ut magnam aliquam dolor.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_6fdb770f",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_19f2d410/index.yaml"
+}

@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_25f3b491",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_25f3b491",
+    "name": "Petite Loyal Woodpecker Of Jest",
+    "description": "Dolorem quaerat labore porro non eius.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_002ab68e",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_25f3b491/index.yaml"
+}

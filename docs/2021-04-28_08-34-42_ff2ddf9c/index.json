@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_ff2ddf9c",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_ff2ddf9c",
+    "name": "Astonishing Polar Dinosaur Of Mastery",
+    "description": "Neque labore modi quisquam amet quiquia.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_5a7fc77b",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_ff2ddf9c/index.yaml"
+}

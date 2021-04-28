@@ -1,0 +1,26 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_0eda4972",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_0eda4972",
+    "name": "Nostalgic Cordial Snail Of Inquire",
+    "description": "Aliquam aliquam quiquia etincidunt ipsum quiquia dolor.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_90918ffc",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_6233defc",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_ea3d4ebb",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_91eeb6da",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_0eda4972/index.yaml"
+}

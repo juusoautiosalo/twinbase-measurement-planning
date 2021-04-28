@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_dcb204de",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_dcb204de",
+    "name": "Affable Bold Stork Of Blizzard",
+    "description": "Tempora etincidunt adipisci eius est adipisci ipsum.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_2630b625",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_dcb204de/index.yaml"
+}

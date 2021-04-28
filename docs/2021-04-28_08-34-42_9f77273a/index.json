@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_9f77273a",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_9f77273a",
+    "name": "Heretic Taupe Coati Of Triumph",
+    "description": "Aliquam aliquam velit magnam labore aliquam est.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_7d226d54",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_9f77273a/index.yaml"
+}

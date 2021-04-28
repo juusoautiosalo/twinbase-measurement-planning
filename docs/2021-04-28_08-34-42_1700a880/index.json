@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_1700a880",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_1700a880",
+    "name": "Resolute Tidy Koel Of Youth",
+    "description": "Voluptatem porro magnam numquam velit dolor voluptatem.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_2eaf8340",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_1700a880/index.yaml"
+}

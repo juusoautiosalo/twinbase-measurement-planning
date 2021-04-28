@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-04-28_08-34-42_677917f9",
+    "hosting-iri": "https://testbase.dtp.fi/2021-04-28_08-34-42_677917f9",
+    "name": "Cocky Cryptic Duck Of Perfection",
+    "description": "Neque neque labore porro ipsum magnam.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-04-28_08-34-42_52c24724",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-04-28_08-34-42_677917f9/index.yaml"
+}
