@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_718be2e3
+hosting-iri: autoassign
+name: Sweet Peridot Hog Of Philosophy
+description: Etincidunt consectetur voluptatem quisquam est porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_88968efd
+  relationType: parent

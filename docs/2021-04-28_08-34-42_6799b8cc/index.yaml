@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
+hosting-iri: autoassign
+name: Frisky Maize Booby Of Blizzard
+description: Modi ut dolor amet labore amet.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c0daef20
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_385db942
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8126350b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_be0b3329
+  relationType: child

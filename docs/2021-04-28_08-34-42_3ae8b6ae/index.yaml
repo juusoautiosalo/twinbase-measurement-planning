@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_3ae8b6ae
+hosting-iri: autoassign
+name: Authentic Curly Bulldog Of Drizzle
+description: Quiquia etincidunt adipisci sed voluptatem sed.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8fee61b0
+  relationType: parent

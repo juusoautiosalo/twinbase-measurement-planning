@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_85478f3e
+hosting-iri: autoassign
+name: Rainbow Vengeful Skua Of Brotherhood
+description: Amet quaerat dolorem numquam ipsum est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5c6485dd
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_73436fb6
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c5dd232a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5f72fab6
+  relationType: child

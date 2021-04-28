@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_57618149
+hosting-iri: autoassign
+name: Puzzling Real Zebu Of Romance
+description: Dolorem sed non sed.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ba99ed2f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2bc3c9f5
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_12519574
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e4f8c20a
+  relationType: child

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_ca62e8aa
+hosting-iri: autoassign
+name: Strange Mega Honeybee Of Debate
+description: Est non tempora etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ad90a240
+  relationType: parent

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_6687a24b
+hosting-iri: autoassign
+name: Alluring Black Manul Of Correction
+description: Ut est dolore amet modi eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_71f3e2b5
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_b1e73c20
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_77ba39a7
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_883cd450
+  relationType: child

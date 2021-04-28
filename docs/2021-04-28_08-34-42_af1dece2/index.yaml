@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_af1dece2
+hosting-iri: autoassign
+name: Manipulative Mottled Skunk Of Snow
+description: Aliquam ipsum est magnam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8b5d432c
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2b37fa54
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_31a1fd8b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1be0b39b
+  relationType: child

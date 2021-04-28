@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_1bbf64e6
+hosting-iri: autoassign
+name: Elegant Uppish Kudu Of Engineering
+description: Magnam sed aliquam eius porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_eae33e91
+  relationType: parent

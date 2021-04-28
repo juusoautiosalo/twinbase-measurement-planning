@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_5ca4c204
+hosting-iri: autoassign
+name: Nippy Satisfied Lori Of Wizardry
+description: Dolore quaerat dolore adipisci sit quisquam amet.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9631913b
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e43755b2
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_93b187ba
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7b9f2345
+  relationType: child

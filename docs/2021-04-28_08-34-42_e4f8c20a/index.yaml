@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_e4f8c20a
+hosting-iri: autoassign
+name: Brave Dragonfly Of Awesome Wind
+description: Amet neque sed numquam amet dolor dolorem porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_57618149
+  relationType: parent

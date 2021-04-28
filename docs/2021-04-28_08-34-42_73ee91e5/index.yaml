@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_73ee91e5
+hosting-iri: autoassign
+name: Hallowed Whispering Guillemot Of Serendipity
+description: Tempora etincidunt modi aliquam ut numquam tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4e0d9192
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cdd09bd8
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8a1b4b9b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e8f98464
+  relationType: child

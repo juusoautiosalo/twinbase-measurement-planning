@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_677917f9
+hosting-iri: autoassign
+name: Cocky Cryptic Duck Of Perfection
+description: Neque neque labore porro ipsum magnam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_52c24724
+  relationType: parent

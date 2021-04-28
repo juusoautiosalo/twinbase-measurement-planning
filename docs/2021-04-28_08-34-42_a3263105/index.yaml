@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a3263105
+hosting-iri: autoassign
+name: Industrious Intelligent Ant Of Mastery
+description: Adipisci sit est neque est quaerat non.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1311fcd9
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9fbedc09
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_52c24724
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d8cd75b5
+  relationType: child

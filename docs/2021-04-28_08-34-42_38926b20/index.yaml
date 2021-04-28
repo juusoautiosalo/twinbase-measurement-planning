@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_38926b20
+hosting-iri: autoassign
+name: Placid Busy Seriema Of Thunder
+description: Amet modi velit etincidunt ipsum.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_b16ed5bd
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7a30948d
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_934831bf
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a6cc971d
+  relationType: child

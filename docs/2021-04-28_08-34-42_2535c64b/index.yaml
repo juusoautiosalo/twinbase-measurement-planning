@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_2535c64b
+hosting-iri: autoassign
+name: Tireless Groovy Roadrunner Of Drama
+description: Sed quisquam neque porro tempora quiquia consectetur est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3d119c20
+  relationType: parent

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8dfbedbf
+hosting-iri: autoassign
+name: Tentacled Steadfast Bird Of Flowers
+description: Numquam est non aliquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c6169a97
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_15153dc2
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ad90a240
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1f5eee04
+  relationType: child

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_fd4253dd
+hosting-iri: autoassign
+name: Tested Sturdy Alligator Of Luxury
+description: Ipsum est modi adipisci quaerat etincidunt quiquia porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8e391b38
+  relationType: parent

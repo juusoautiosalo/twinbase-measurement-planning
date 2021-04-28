@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_b16ed5bd
+hosting-iri: autoassign
+name: Prophetic Organic Coua From Heaven
+description: Ut est quisquam tempora adipisci.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a055668f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_60cd7638
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_882fc70c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_38926b20
+  relationType: child

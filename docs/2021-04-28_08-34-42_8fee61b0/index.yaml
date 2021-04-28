@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8fee61b0
+hosting-iri: autoassign
+name: Adorable Icy Mushroom Of Vigor
+description: Velit dolor porro adipisci.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_df82f4f4
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cf5f61f2
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3ae8b6ae
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5b35b94d
+  relationType: child

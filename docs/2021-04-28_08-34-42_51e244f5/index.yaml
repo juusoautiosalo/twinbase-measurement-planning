@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_51e244f5
+hosting-iri: autoassign
+name: Bright Quaint Myna Of Apotheosis
+description: Numquam amet non eius amet consectetur porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_02486218
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_92d63765
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_eb68d0d6
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_53f396d8
+  relationType: child

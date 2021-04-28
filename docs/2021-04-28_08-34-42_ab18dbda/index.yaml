@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_ab18dbda
+hosting-iri: autoassign
+name: Upbeat Abiding Nautilus Of Essence
+description: Adipisci est porro velit.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c0daef20
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_af3068b5
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d9970025
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d9c4e7f6
+  relationType: child

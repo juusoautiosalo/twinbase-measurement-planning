@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_0a11a7bc
+hosting-iri: autoassign
+name: Fluffy Dexterous Binturong Of Blizzard
+description: Quaerat quisquam est labore.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_36f72c87
+  relationType: parent

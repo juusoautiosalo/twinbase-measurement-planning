@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8de3d3a0
+hosting-iri: autoassign
+name: Warping Winged Pronghorn Of Kindness
+description: Adipisci magnam modi amet adipisci neque eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5c6485dd
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_6b6e98ce
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_17243631
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e7e7a5d6
+  relationType: child

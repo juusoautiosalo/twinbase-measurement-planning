@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_349941d8
+hosting-iri: autoassign
+name: Bold Independent Falcon Of Serenity
+description: Velit dolor adipisci sit sit porro etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d846b526
+  relationType: parent

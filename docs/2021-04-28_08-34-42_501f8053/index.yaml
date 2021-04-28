@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_501f8053
+hosting-iri: autoassign
+name: Obedient Married Pheasant Of Discourse
+description: Adipisci numquam dolorem est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_095820ae
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_15f0d36f
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_71f3e2b5
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_963c984f
+  relationType: child

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_00d24248
+hosting-iri: autoassign
+name: Lurking Sticky Booby Of Recreation
+description: Numquam sit magnam eius consectetur quiquia.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_15f0d36f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_dd05359e
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c04ca267
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3a9907e0
+  relationType: child

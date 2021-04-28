@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_2630b625
+hosting-iri: autoassign
+name: Great Uptight Bull Of Tranquility
+description: Modi numquam non sit amet.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_48d8344d
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7ddb89a9
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_dcb204de
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8b714e3d
+  relationType: child

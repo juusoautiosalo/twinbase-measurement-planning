@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_5a7fc77b
+hosting-iri: autoassign
+name: Rare Cerulean Sheep Of Glee
+description: Sed quisquam numquam dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1d4f6f5c
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ff2ddf9c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_f6560e9c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_95d3a360
+  relationType: child

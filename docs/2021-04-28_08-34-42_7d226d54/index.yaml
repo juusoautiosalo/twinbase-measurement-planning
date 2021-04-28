@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_7d226d54
+hosting-iri: autoassign
+name: Talented Nonchalant Sunfish Of Peace
+description: Eius consectetur velit adipisci.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a0c143bd
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_f646340a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9f77273a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ad2b8859
+  relationType: child

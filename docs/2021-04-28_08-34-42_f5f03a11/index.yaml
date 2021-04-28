@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_f5f03a11
+hosting-iri: autoassign
+name: Convivial Married Galago Of Youth
+description: Ut neque aliquam quisquam ipsum aliquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_227d6c26
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_329e8592
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_225a432a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_005e1f6d
+  relationType: child

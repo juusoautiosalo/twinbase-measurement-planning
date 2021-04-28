@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_2a92fb26
+hosting-iri: autoassign
+name: Cunning Pearl Dog Of Success
+description: Aliquam quiquia adipisci porro neque aliquam dolore quaerat.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_15153dc2
+  relationType: parent

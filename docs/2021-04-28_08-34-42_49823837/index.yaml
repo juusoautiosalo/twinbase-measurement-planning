@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_49823837
+hosting-iri: autoassign
+name: Abstract Spiffy Quetzal Of Advertising
+description: Sed sit tempora non quaerat tempora quiquia.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1f5eee04
+  relationType: parent

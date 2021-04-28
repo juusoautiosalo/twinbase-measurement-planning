@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_92c329b3
+hosting-iri: autoassign
+name: Cunning Tremendous Fennec Of Opposition
+description: Ipsum modi modi est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e527ce32
+  relationType: parent

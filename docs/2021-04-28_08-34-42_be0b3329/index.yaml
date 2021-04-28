@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_be0b3329
+hosting-iri: autoassign
+name: Funky Unbiased Kangaroo Of Luxury
+description: Tempora neque numquam dolor consectetur ut.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
+  relationType: parent

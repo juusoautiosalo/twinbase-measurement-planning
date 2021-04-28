@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_93ef177e
+hosting-iri: autoassign
+name: Magic Alluring Chimpanzee Of Art
+description: Non porro ipsum modi tempora porro porro adipisci.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_48fcf928
+  relationType: parent

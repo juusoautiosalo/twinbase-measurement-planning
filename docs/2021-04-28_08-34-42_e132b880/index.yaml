@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_e132b880
+hosting-iri: autoassign
+name: Light Gaur Of Satisfying Wizardry
+description: Velit eius etincidunt dolore consectetur.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_15f0d36f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cce1f153
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e0aed145
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_773fe715
+  relationType: child

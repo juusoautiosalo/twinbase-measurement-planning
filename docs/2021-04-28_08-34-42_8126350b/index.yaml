@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8126350b
+hosting-iri: autoassign
+name: Jovial Bizarre Guppy Of Action
+description: Est consectetur aliquam sit est amet magnam quiquia.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
+  relationType: parent

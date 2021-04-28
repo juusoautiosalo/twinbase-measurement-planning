@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_9f8610f3
+hosting-iri: autoassign
+name: Adamant Pelican Of Delightful Influence
+description: Voluptatem dolor ipsum non.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9bb55aff
+  relationType: parent

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_9631913b
+hosting-iri: autoassign
+name: Fanatic Dogfish Of Extreme Love
+description: Voluptatem quaerat est amet consectetur labore dolore ipsum.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1311fcd9
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3895c7ca
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5ca4c204
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ed99d979
+  relationType: child

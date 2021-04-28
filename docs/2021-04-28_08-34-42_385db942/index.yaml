@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_385db942
+hosting-iri: autoassign
+name: Vague Sticky Frigatebird Of Vitality
+description: Amet sit voluptatem numquam sit labore ipsum.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_6799b8cc
+  relationType: parent

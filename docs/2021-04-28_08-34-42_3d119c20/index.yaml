@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_3d119c20
+hosting-iri: autoassign
+name: Tasteful Succinct Caterpillar Of Revolution
+description: Quiquia ut non tempora ut modi.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_976af15a
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2535c64b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9f762d70
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_64393b62
+  relationType: child

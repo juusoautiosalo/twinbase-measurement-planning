@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_15f0d36f
+hosting-iri: autoassign
+name: Sparkling Arboreal Camel Of Temperance
+description: Eius etincidunt etincidunt modi quaerat non non voluptatem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_501f8053
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cbba8e2f
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e132b880
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_00d24248
+  relationType: child

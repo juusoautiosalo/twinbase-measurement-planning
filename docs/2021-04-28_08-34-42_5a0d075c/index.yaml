@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_5a0d075c
+hosting-iri: autoassign
+name: Spirited Curassow Of Remarkable Persistence
+description: Porro quaerat modi labore.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_48d8344d
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8822a98a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e74772a9
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_bd308c67
+  relationType: child

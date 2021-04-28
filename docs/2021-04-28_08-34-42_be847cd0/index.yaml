@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_be847cd0
+hosting-iri: autoassign
+name: Qualified Sceptical Monkey Of Vitality
+description: Dolor consectetur dolore numquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5871356e
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1469763c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0e106a8a
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ae4929c5
+  relationType: child

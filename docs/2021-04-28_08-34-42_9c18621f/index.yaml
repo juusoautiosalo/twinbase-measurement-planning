@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_9c18621f
+hosting-iri: autoassign
+name: Adorable Unique Bandicoot Of Destiny
+description: Dolore sit eius adipisci est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d9ec9dda
+  relationType: parent

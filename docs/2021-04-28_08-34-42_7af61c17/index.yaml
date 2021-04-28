@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_7af61c17
+hosting-iri: autoassign
+name: Glistening Quick Spider Of Endeavor
+description: Amet dolorem labore eius tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e45f036f
+  relationType: parent

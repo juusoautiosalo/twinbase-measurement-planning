@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a055668f
+hosting-iri: autoassign
+name: Nippy Crow Of Serious Hail
+description: Quiquia non adipisci amet magnam velit amet.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_095820ae
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_b16ed5bd
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4e0d9192
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c0daef20
+  relationType: child

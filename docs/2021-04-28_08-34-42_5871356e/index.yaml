@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_5871356e
+hosting-iri: autoassign
+name: Rugged Agile Ermine From Venus
+description: Eius ut amet dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2de89a86
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_72013821
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_baf97511
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_be847cd0
+  relationType: child

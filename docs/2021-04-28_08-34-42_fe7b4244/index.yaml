@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_fe7b4244
+hosting-iri: autoassign
+name: Quaint Muscular Cuttlefish Of Fragrance
+description: Dolore sed consectetur modi labore porro.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1d4f6f5c
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3c3aa866
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_bb17fc34
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c05369dd
+  relationType: child

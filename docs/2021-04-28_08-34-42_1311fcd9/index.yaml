@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_1311fcd9
+hosting-iri: autoassign
+name: Outstanding Honeybee Of Sublime Drama
+description: Sit tempora est eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_984f6f03
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a3263105
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9631913b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e9d4dbc0
+  relationType: child

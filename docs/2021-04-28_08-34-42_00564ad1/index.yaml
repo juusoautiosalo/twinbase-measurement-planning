@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_00564ad1
+hosting-iri: autoassign
+name: Satisfied Pelican Of Strongest Holiness
+description: Numquam tempora sit ut.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cd2cdb85
+  relationType: parent

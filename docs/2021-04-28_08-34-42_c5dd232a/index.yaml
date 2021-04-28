@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_c5dd232a
+hosting-iri: autoassign
+name: Prudent Ochre Wallaby Of Storm
+description: Ipsum magnam sit amet neque aliquam sed dolore.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_85478f3e
+  relationType: parent

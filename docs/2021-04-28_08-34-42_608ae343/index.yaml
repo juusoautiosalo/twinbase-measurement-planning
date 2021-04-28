@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_608ae343
+hosting-iri: autoassign
+name: Masked Platinum Armadillo Of Serendipity
+description: Eius velit est velit aliquam est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8b5d432c
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7949b4c8
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_bc6d6110
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2ddfe434
+  relationType: child

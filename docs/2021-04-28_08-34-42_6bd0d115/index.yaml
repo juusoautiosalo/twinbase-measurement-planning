@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_6bd0d115
+hosting-iri: autoassign
+name: Silent Quirky Crow Of Will
+description: Aliquam eius eius ut.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e9d4dbc0
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ad4c9f94
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5c4cdafb
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4b679b50
+  relationType: child

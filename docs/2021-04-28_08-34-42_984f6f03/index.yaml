@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_984f6f03
+hosting-iri: autoassign
+name: Melodic Cute Hyena Of Valor
+description: Ipsum voluptatem sit dolor velit eius dolor.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_54e71fef
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_fe41dd8d
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1311fcd9
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c6169a97
+  relationType: child

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_0308a27d
+hosting-iri: autoassign
+name: Cordial Magnificent Cow Of Order
+description: Ipsum etincidunt quisquam non sed modi est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0ea26777
+  relationType: parent

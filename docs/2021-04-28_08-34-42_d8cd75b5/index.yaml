@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_d8cd75b5
+hosting-iri: autoassign
+name: Greedy Sturdy Stork Of Reward
+description: Magnam velit tempora neque quisquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a3263105
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8359f802
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_af34f983
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4586f210
+  relationType: child

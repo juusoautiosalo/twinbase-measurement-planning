@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8ac2e973
+hosting-iri: autoassign
+name: Dark Foamy Gazelle Of Devotion
+description: Voluptatem est numquam velit sed amet dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_72013821
+  relationType: parent

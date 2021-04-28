@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_10088692
+hosting-iri: autoassign
+name: Ancient Private Moose Of Management
+description: Sit velit adipisci velit voluptatem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_71045d0d
+  relationType: parent

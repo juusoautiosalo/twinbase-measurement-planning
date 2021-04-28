@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_36f72c87
+hosting-iri: autoassign
+name: Curious Tall Sawfly Of Jest
+description: Adipisci modi dolor quisquam non amet ut eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_28029b0f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0a11a7bc
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_dce00bc4
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e86efa9b
+  relationType: child

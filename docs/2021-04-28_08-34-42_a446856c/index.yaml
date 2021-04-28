@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a446856c
+hosting-iri: autoassign
+name: Peculiar Celadon Basilisk Of Valor
+description: Non modi ipsum non.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_329e8592
+  relationType: parent

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_1b39f241
+hosting-iri: autoassign
+name: Quixotic Ringtail Of Immense Luck
+description: Amet magnam aliquam ut aliquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_002ab68e
+  relationType: parent

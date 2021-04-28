@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_7b77e5f0
+hosting-iri: autoassign
+name: Proficient Buzzard Of Eternal Vitality
+description: Sed ipsum adipisci numquam est neque est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ba99ed2f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2e282806
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cffcefa3
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_29ab2ea6
+  relationType: child

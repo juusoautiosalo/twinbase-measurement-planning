@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_095820ae
+hosting-iri: autoassign
+name: Sceptical Fractal Dragon Of Revolution
+description: Porro dolore tempora ut dolore quaerat modi.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_54e71fef
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a055668f
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a92af7ed
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_501f8053
+  relationType: child

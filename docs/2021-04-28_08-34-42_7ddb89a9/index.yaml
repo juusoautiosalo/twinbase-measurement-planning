@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_7ddb89a9
+hosting-iri: autoassign
+name: Terrestrial Artichoke Gaur Of Swiftness
+description: Sit amet tempora quaerat tempora voluptatem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_2630b625
+  relationType: parent

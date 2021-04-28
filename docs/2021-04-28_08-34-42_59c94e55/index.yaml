@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_59c94e55
+hosting-iri: autoassign
+name: Glittering Interesting Slug Of Joviality
+description: Voluptatem est amet labore neque porro sit.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_03844e23
+  relationType: parent

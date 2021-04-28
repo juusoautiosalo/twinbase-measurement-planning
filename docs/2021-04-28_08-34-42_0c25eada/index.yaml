@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_0c25eada
+hosting-iri: autoassign
+name: Elegant Eminent Seagull Of Imagination
+description: Ipsum sit ut etincidunt sit quiquia quiquia.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_225a432a
+  relationType: parent

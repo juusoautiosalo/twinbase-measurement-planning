@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_3d86dd01
+hosting-iri: autoassign
+name: Pragmatic Meteoric Goshawk Of Popularity
+description: Dolor ipsum sed ipsum.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_996b7d2b
+  relationType: parent

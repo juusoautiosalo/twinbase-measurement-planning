@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_1d4f6f5c
+hosting-iri: autoassign
+name: Screeching Mustard Buffalo Of Correction
+description: Neque voluptatem dolorem porro numquam velit consectetur tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a92af7ed
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_fe7b4244
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_eae33e91
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5a7fc77b
+  relationType: child

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_c6169a97
+hosting-iri: autoassign
+name: Nebulous Unique Macaw Of Examination
+description: Ut eius quaerat sit dolorem ut tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_984f6f03
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_48d8344d
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4a5161bb
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8dfbedbf
+  relationType: child

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_227d6c26
+hosting-iri: autoassign
+name: Stereotyped Abstract Potoo Of Justice
+description: Sed ut tempora tempora est.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5c130a46
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ba99ed2f
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_f5f03a11
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a0c143bd
+  relationType: child

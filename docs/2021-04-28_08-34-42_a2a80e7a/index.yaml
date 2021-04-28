@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a2a80e7a
+hosting-iri: autoassign
+name: Cunning Magnificent Pillbug From Arcadia
+description: Quisquam dolor quaerat dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_31068564
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d9ec9dda
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_f35fd344
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cd2cdb85
+  relationType: child

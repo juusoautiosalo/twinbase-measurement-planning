@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a0c143bd
+hosting-iri: autoassign
+name: Lurking Obedient Cuscus Of Domination
+description: Neque modi sit quiquia dolorem voluptatem etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_227d6c26
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3e061e2c
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9524e0fc
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7d226d54
+  relationType: child

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_f7117a24
+hosting-iri: autoassign
+name: Organic Impartial Yak Of Attraction
+description: Dolorem tempora sit velit.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_e9d4dbc0
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_7d675df3
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d7861b01
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_d0bcd6aa
+  relationType: child

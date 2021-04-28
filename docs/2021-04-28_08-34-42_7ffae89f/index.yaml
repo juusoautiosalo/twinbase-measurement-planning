@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_7ffae89f
+hosting-iri: autoassign
+name: Impressive Golden Alpaca Of Awe
+description: Dolorem dolore consectetur eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_60cd7638
+  relationType: parent

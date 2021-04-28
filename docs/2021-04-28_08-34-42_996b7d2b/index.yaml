@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_996b7d2b
+hosting-iri: autoassign
+name: Refined Mega Flounder Of Patience
+description: Non tempora labore aliquam tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c0daef20
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_66345d97
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3d86dd01
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0e5ee7b5
+  relationType: child

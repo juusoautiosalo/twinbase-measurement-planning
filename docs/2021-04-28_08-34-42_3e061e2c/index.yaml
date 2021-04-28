@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_3e061e2c
+hosting-iri: autoassign
+name: Busy Wild Llama Of Jest
+description: Neque magnam non aliquam numquam dolorem velit.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a0c143bd
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9c6106c4
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_f92131e8
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4fbb975f
+  relationType: child

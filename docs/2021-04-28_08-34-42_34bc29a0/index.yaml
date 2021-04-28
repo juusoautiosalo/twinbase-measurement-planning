@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_34bc29a0
+hosting-iri: autoassign
+name: Spry Enigmatic Ammonite Of Examination
+description: Quaerat adipisci ut dolorem numquam.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_4a5161bb
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_5d6553b2
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_292d2684
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_02f02732
+  relationType: child

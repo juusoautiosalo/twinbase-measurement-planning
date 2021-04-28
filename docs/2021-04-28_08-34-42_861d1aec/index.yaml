@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_861d1aec
+hosting-iri: autoassign
+name: Enlightened Hairy Marmot Of Anger
+description: Est non dolore amet numquam est ut.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_3895c7ca
+  relationType: parent

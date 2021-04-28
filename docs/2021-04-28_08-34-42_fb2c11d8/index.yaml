@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_fb2c11d8
+hosting-iri: autoassign
+name: Interesting Hopeful Longhorn Of Art
+description: Eius quaerat dolorem dolor.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_cd2cdb85
+  relationType: parent

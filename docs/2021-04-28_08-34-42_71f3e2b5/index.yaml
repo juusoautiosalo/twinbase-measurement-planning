@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_71f3e2b5
+hosting-iri: autoassign
+name: Uber Woodlouse Of Incredible Courage
+description: Magnam neque amet voluptatem dolore ipsum ipsum.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_501f8053
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0ea26777
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_6687a24b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_de1d8a0a
+  relationType: child

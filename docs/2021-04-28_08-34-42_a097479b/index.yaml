@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a097479b
+hosting-iri: autoassign
+name: Certain Curly Pillbug Of Vigor
+description: Tempora velit amet aliquam voluptatem velit quaerat eius.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_882fc70c
+  relationType: parent

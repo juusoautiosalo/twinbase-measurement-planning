@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_6fdb770f
+hosting-iri: autoassign
+name: Victorious Angelic Rabbit Of Democracy
+description: Ut consectetur magnam amet sit ut numquam dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_ba99ed2f
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_48c97f9b
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_19f2d410
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c80e5f04
+  relationType: child

@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_c05369dd
+hosting-iri: autoassign
+name: Utopian Attentive Dingo Of Wizardry
+description: Non dolor ipsum aliquam numquam dolorem.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_fe7b4244
+  relationType: parent

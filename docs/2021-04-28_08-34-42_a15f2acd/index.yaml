@@ -1,0 +1,7 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_a15f2acd
+hosting-iri: autoassign
+name: Miniature Arrogant Viper Of Plenty
+description: Sit quiquia numquam neque sed amet tempora.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_9bb55aff
+  relationType: parent

@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_0ea26777
+hosting-iri: autoassign
+name: Whispering Flying Trogon Of Blizzard
+description: Voluptatem aliquam modi sed.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_71f3e2b5
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_c3b9e024
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_0308a27d
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_1075fd8b
+  relationType: child

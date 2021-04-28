@@ -1,0 +1,13 @@
+dt-id: https://dtid.org/2021-04-28_08-34-42_8b5d432c
+hosting-iri: autoassign
+name: First Lush Wombat Of Modernism
+description: Dolor numquam sit dolore.
+relations:
+- dt-id: https://dtid.org/2021-04-28_08-34-42_a92af7ed
+  relationType: parent
+- dt-id: https://dtid.org/2021-04-28_08-34-42_8e391b38
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_af1dece2
+  relationType: child
+- dt-id: https://dtid.org/2021-04-28_08-34-42_608ae343
+  relationType: child
