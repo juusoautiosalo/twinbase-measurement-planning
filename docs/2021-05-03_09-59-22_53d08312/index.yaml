@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/2021-05-03_09-59-22_53d08312
+hosting-iri: autoassign
+name: Wealthy Noisy Heron Of Artistry
+description: Dolorem labore velit adipisci etincidunt.
+relations:
+- dt-id: https://dtid.org/2021-05-03_09-59-22_6e9294bd
+  relationType: parent
+- dt-id: https://dtid.org/2021-05-03_09-59-22_e650844e
+  relationType: child

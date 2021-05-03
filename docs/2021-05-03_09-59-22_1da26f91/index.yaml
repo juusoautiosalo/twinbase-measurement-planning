@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/2021-05-03_09-59-22_1da26f91
+hosting-iri: autoassign
+name: The Origin at 2021-05-03 09-59-22
+description: Amet sit non dolore quisquam quaerat quisquam.
+relations:
+- dt-id: http://d-t.fi/juuso
+  relationType: parent
+- dt-id: https://dtid.org/2021-05-03_09-59-22_6e9294bd
+  relationType: child

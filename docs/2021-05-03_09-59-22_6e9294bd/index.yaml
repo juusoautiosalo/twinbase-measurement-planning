@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/2021-05-03_09-59-22_6e9294bd
+hosting-iri: autoassign
+name: Sassy Tireless Donkey Of Enrichment
+description: Voluptatem modi porro neque sed non porro.
+relations:
+- dt-id: https://dtid.org/2021-05-03_09-59-22_1da26f91
+  relationType: parent
+- dt-id: https://dtid.org/2021-05-03_09-59-22_53d08312
+  relationType: child
