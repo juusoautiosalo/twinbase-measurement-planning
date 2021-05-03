@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-05-03_09-59-22_d4a35725
-hosting-iri: autoassign
+hosting-iri: https://testbase.dtp.fi/2021-05-03_09-59-22_d4a35725
 name: Successful Encouraging Ammonite Of Triumph
 description: Eius magnam eius dolore neque neque velit.
 relations:
@@ -7,3 +7,5 @@ relations:
   relationType: parent
 - dt-id: https://dtid.org/2021-05-03_09-59-22_9d6c8a6f
   relationType: child
+baseurl: https://testbase.dtp.fi
+edit: https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-05-03_09-59-22_d4a35725/index.yaml
