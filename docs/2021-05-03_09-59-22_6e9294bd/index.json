@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://dtid.org/2021-05-03_09-59-22_6e9294bd",
+    "hosting-iri": "https://testbase.dtp.fi/2021-05-03_09-59-22_6e9294bd",
+    "name": "Sassy Tireless Donkey Of Enrichment",
+    "description": "Voluptatem modi porro neque sed non porro.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-05-03_09-59-22_1da26f91",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-05-03_09-59-22_53d08312",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-05-03_09-59-22_6e9294bd/index.yaml"
+}

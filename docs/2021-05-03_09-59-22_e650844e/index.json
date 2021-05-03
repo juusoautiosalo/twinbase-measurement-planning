@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://dtid.org/2021-05-03_09-59-22_e650844e",
+    "hosting-iri": "https://testbase.dtp.fi/2021-05-03_09-59-22_e650844e",
+    "name": "Garrulous Quixotic Elephant From Ganymede",
+    "description": "Quiquia velit modi dolorem eius porro dolore eius.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-05-03_09-59-22_53d08312",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-05-03_09-59-22_d4a35725",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://testbase.dtp.fi",
+    "edit": "https://github.com/juusoautiosalo/twinbase-measurement-planning/edit/main/docs/2021-05-03_09-59-22_e650844e/index.yaml"
+}
